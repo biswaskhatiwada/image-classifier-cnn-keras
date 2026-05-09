@@ -45,8 +45,14 @@ Data augmentation (random flips, brightness, contrast, saturation) was applied t
 - scikit-learn
 - matplotlib / seaborn
 
+## Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11V6lksvnG367kOBV-3cl1K_XCNjiLwXi?usp=sharing)
+
+**Direct link:** [https://colab.research.google.com/drive/11V6lksvnG367kOBV-3cl1K_XCNjiLwXi?usp=sharing](https://colab.research.google.com/drive/11V6lksvnG367kOBV-3cl1K_XCNjiLwXi?usp=sharing)
+
 ## How to Run
 
-1. Open `image_classifier_cnn_keras.ipynb` in Google Colab
+1. Click the Colab link above to open the notebook
 2. Mount your Google Drive and place the dataset at `/content/drive/MyDrive/archive/Mushrooms`
 3. Run all cells in order
